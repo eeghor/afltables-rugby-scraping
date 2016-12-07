@@ -4,6 +4,6 @@ Yes, the [afltables.com](http://afltables.com/) web site also has the Rugby Leag
 ## Note
 * you need to install [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) which is an HTML parser for Python. Try  
 
-  > pip3 install b4s
+  > pip3 install beautifulsoup4
 
 * this scrips was written in Python 3 but only a few changes would be required to run in with Python 2   
